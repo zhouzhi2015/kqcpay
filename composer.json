@@ -1,0 +1,22 @@
+{
+    "name":         "kqcpay/kqcPay",
+    "type":         "library",
+    "description":  "Common pay for kqc",
+    "homepage":     "https://github.com/zhouzhi2015/kqcpay",
+    "license":      "MIT",
+    "authors":      [
+        {
+            "name": "zhouzhi",
+            "email": "1184795629@qq.com"
+        }
+    ],
+    "require":      {
+        "php": ">=5.6"
+    },
+	"autoload": {
+        "psr-4": {
+            "kqcPay\\": "src/"
+        }
+    }
+
+}
