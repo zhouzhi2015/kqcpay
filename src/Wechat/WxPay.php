@@ -2,13 +2,13 @@
 /**
  * 微支付类
  */
-namespace kqcpay\Wechat;
+namespace kqcPay\Wechat;
 
 use Illuminate\Support\Facades\Redis;
 use Log;
-use kqcpay\Utils\StringFun;
-use kqcpay\Utils\HttpFun;
-use kqcpay\Utils\XMLFun;
+use kqcPay\Utils\StringFun;
+use kqcPay\Utils\HttpFun;
+use kqcPay\Utils\XMLFun;
 
 class WxPay{
 	

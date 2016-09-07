@@ -4,7 +4,7 @@
  * @author zhouzhi@kuaiqiangche.com
  * @version 20160819 14:14
  */
-namespace kqcpay\Utils;
+namespace kqcPay\Utils;
 
 class HttpFun{
 	

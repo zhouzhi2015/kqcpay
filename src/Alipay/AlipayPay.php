@@ -5,13 +5,13 @@
  * @version 20160825 16:29
  */
 
-namespace kqcpay\Alipay;
+namespace kqcPay\Alipay;
 
 use Illuminate\Support\Facades\Redis;
 use Log;
-use kqcpay\Utils\StringFun;
-use kqcpay\Utils\HttpFun;
-use kqcpay\Utils\XMLFun;
+use kqcPay\Utils\StringFun;
+use kqcPay\Utils\HttpFun;
+use kqcPay\Utils\XMLFun;
 
 class AlipayPay{
 	
