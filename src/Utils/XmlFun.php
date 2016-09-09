@@ -6,7 +6,7 @@
  */
 namespace  kqcPay\Utils;
 
-class XMLFun{
+class XmlFun{
 	
 	/**
 	 * 作用：array转xml
