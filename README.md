@@ -1,2 +1,2 @@
-# kqcpay
-kqc common pay tools
+# quick pay
+quick common pay tools
